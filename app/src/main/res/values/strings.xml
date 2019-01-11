@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Android Login Firebase</string>
+    <string name="minimum_password">Password terlalu pendek, masukan  minimum 6 karakter!</string>
+    <string name="auth_failed">Autentikasi Gagal, cek email dan password anda atau Akun anda tidak terdaftar</string>
+    <string name="hint_email">Email</string>
+    <string name="btn_reset_password">Atur Ulang Sandi</string>
+    <string name="forgot_password_msg">Kita hanya perlu Email Anda untuk mengirimkan petunjuk untuk mengatur ulang kata sandi anda.</string>
+    <string name="loading">Mempersiapkan Aplikasi...</string>
 </resources>
